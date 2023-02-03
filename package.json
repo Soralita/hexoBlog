@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "hexo": "^6.3.0"
+    "hexo": "^6.3.0",
+    "hexo-deployer-git": "^3.0.0",
+    "hexo-theme-butterfly": "^4.6.1"
   }
 }
